@@ -8,7 +8,7 @@ http://google.com
 #EXTINF:-1 group-title="Information" ,Test channels are not stable! Report them in Issue if faced any error.
 http://google.com
 
-#Tokyo1
+#Tokyo-vnpt
 #EXTINF:-1 group-title="Tokyo" tvg-id="nhkg_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G 
 https://vnpt.nekocdn.xyz/b783a989-9e73-4bce-bfa3-9996a9eaa455.m3u8
 #EXTINF:-1 group-title="Tokyo" tvg-id="nhke_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png",NHK E
@@ -25,7 +25,7 @@ https://vnpt.nekocdn.xyz/0fc25793-9d0a-459d-b645-46254bd89616.m3u8
 https://vnpt.nekocdn.xyz/202bea4f-c55a-4dbc-a5f3-66343cc98b0b.m3u8
 #EXTINF:-1 group-title="Tokyo" tvg-id="tokyo_mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",TOKYO MX1
 https://vnpt.nekocdn.xyz/b9925493-fc55-40fe-b813-07ead8974f3f.m3u8
-#Tokyo3
+#Tokyo-primehome
 #EXTINF:-1 group-title="Tokyo" tvg-id="nhkg_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHKG-540
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01
 #EXTINF:-1 group-title="Tokyo" tvg-id="nhke_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png",NHKE-540
@@ -42,7 +42,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07
 #EXTINF:-1 group-title="Tokyo" tvg-id="tokyo_mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",TOKYOMX1-540
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08
-#Kansai2
+#Kansai-primehome
 #EXTINF:-1 group-title="Osaka" tvg-id="nhkg_osaka" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G Osaka
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06
 #EXTINF:-1 group-title="Osaka" tvg-id="mbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/2560px-Mainichi_Broadcasting_System_logo.svg.png",MBS
@@ -57,7 +57,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx04
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx05
 #EXTINF:-1 group-title="Osaka" tvg-id="sun_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/SUN-TV_wordmark_2019.png",SUN TV
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07
-#BS1
+#BS-vnpt
 #EXTINF:-1 group-title="BS" tvg-id="nhk_bs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png",NHK BS
 https://vnpt.nekocdn.xyz/9ca1151d-7a96-4c1a-9672-8853124bba85.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="bs11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/BS11_logo.svg/2560px-BS11_logo.svg.pngion_logo_%28rainbow%29.svg.png",BS11
@@ -66,7 +66,7 @@ https://vnpt.nekocdn.xyz/11644528-009c-47e3-a444-16da17f3f88f.m3u8
 https://vnpt.nekocdn.xyz/68ea67df-d4e1-44cb-bdb9-179dd01b7db4.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="wowow_prime" tvg-logo="https://corporate.wowow.co.jp/recruit/assets/img/logo-wowow_prime.png",WOWOW Prime (nekocdn)
 https://vnpt.nekocdn.xyz/c7f9407a-6fcb-46e2-a649-98c15ffe0a6e.m3u8
-#BS2
+#BS-primehome
 #EXTINF:-1 group-title="BS" tvg-id="nhk_bs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png",NHK BS
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11
 #EXTINF:-1 group-title="BS" tvg-id="nhk_bsp4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/NHK_BSP4K.png",NHK BSP 4K
@@ -109,7 +109,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs25
 #EXTINF:-1 group-title="BS" tvg-id="bs_shochiku_tokyu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e2/BS_Shochiku_Tokyu_logo.jpg",BS Shochiku Tokyu
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs31
-#CS1
+#CS-vnpt
 #EXTINF:-1 group-title="CS" tvg-id="at-x" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png",AT-X
 https://vnpt.nekocdn.xyz/9113e313-5c50-41dd-a4a0-fda78b64580f.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="at-x" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png",AT-X (neetball)
@@ -118,7 +118,7 @@ https://neetball.net/live/neet3.m3u8
 https://vnpt.nekocdn.xyz/4b5031a9-04eb-4320-a708-bad2ac658205.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="space_shower" tvg-logo="https://www.lyngsat.com/logo/tv/ss/space_shower_tv.png",Space Shower TV (vthanh)
 https://vnpt.nekocdn.xyz/bb127794-ed6f-44cb-9a77-3f1e63c0dbd9,m3u8
-#CS2
+#CS-primehome
 #EXTINF:-1 group-title="CS" tvg-id="jidaigeki" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jidaigeki.png",Jidaigeki Senmon
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs04
 #EXTINF:-1 group-title="CS" tvg-id="toei_channel" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/toei_channel.png",Toei Channel
